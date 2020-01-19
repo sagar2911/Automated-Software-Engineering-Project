@@ -1,0 +1,18 @@
+Means of first 10, 20, ... 100 numbers:
+4884.4 5211.8 5440.7 5398.0 5534.3 5609.4 5626.3 5443.7 5332.0 
+
+Standard deviations of first 10, 20, ... 100 numbers:
+2733.4 2697.1 2789.6 2655.4 2676.6 2742.5 2664.4 2598.9 2648.8 
+
+
+Deleting numbers from list.
+
+Means of first 100, 90, ... 10 numbers:
+5332.0 5443.7 5626.3 5609.4 5534.3 5398.0 5440.7 5211.8 4884.4 
+
+Standard deviations of first 100, 90, ... 10 numbers:
+2648.8 2598.9 2664.4 2742.5 2676.6 2655.4 2789.6 2697.1 2733.4 
+
+Checking means.
+
+Checking standard deviations.

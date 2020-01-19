@@ -1,0 +1,33 @@
+﻿Let's take an example of the trees we have. Each cluster is widely different from the other. We prefer this approach over a more global approach because it offers more customizable possibilities. For example, this is a data of cars. If we went with the more global approach, we would get the best possible accelerations, weights and MPGs, but the 20% of them would just be really expensive to make cars which may not be affordable for most of the customers. And the rest 80% would still be a large number to classify so many options which would lead to a loss of possibilities.
+In our case, we have the best possible options for each class of cars. You can choose the range of car you want by looking at the centroids and get the best option given your personal preferences. 
+Let's take 
+49
+|. 24
+|. |. 12
+|. |.  <weight = 1955.1 (157.5), >acceleration = 18.1 (1.1), >mpg = 36.2 (2.9)
+|. |. 12
+|. |.  <weight = 1990.5 (214.2), >acceleration = 16.9 (1.6), >mpg = 35.7 (5.0)
+|. 25
+|. |. 12
+|. |.  <weight = 2090.4 (202.8), >acceleration = 16.2 (1.2), >mpg = 33.6 (3.0)
+|. |. 13
+|. |.  <weight = 2399.8 (216.8), >acceleration = 15.6 (1.7), >mpg = 26.4 (3.7)
+<weight = 2114.9 (264.1), >acceleration = 16.7 (1.7), >mpg = 32.9 (5.4)
+
+and
+
+50
+|. 25
+|. |. 12
+|. |.  <weight = 4064.4 (266.9), >acceleration = 14.1 (1.3), >mpg = 14.1 (1.2)
+|. |. 13
+|. |.  <weight = 4022.6 (323.9), >acceleration = 13.2 (1.1), >mpg = 16.1 (2.3)
+|. 25
+|. |. 12
+|. |.  <weight = 3906.8 (302.3), >acceleration = 15.0 (1.7), >mpg = 18.4 (3.5)
+|. |. 13
+|. |.  <weight = 3939.5 (297.9), >acceleration = 13.1 (2.1), >mpg = 15.8 (1.5)
+<weight = 3983.2 (296.5), >acceleration = 13.8 (1.7), >mpg = 16.1 (2.7)
+ 
+ These are widely different range of cars. Someone looking for an affordable car would choose from the second tree. And a professional racer would look at the first tree.
+

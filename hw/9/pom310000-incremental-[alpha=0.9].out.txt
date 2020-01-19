@@ -1,0 +1,5 @@
+Data file: pom310000.csvIncremental Tree: 
+
+               Score
+--------------------
+  0.6839506172839506

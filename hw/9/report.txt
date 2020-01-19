@@ -1,0 +1,13 @@
+
+The alpha affects the output in the following way (pom files):
+
+Mean score for two datasets:
+
+      Dataset File|               All| Incremental a=0.2| Incremental a=0.5| Incremental a=0.7
+------------------|------------------|------------------|------------------|------------------
+     pom310000.csv|             0.732|             0.596|             0.614|             0.541
+     xomo10000.csv|             0.657|             0.651|             0.748|             0.676
+
+
+So when we decrease or increase alpha from 0.5 it's performance always goes down compared to 0.5.
+

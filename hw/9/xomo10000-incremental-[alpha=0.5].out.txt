@@ -1,0 +1,5 @@
+Data file: xomo10000.csvIncremental Tree: 
+
+               Score
+--------------------
+         0.748046875
